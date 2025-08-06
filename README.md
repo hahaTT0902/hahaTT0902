@@ -18,9 +18,6 @@
 > 正在运用一个 Minecraft 公益服
 > Currently Maintaining and Operating a Minecraft Server
 
-- 🎨 技术：HTML, CSS, GitHub Wiki, Tailwind 风格美化
-- 🚀 特点：打字动画、移动端适配、沉浸式视觉导航
-
 ### 📊 Solar Panel Tracker / 太阳能自动追踪系统
 > 通过 PyQt5 + OpenGL 实现太阳能板三维仿真与角度控制，支持串口通信和实时回中机制。
 
