@@ -1,6 +1,6 @@
 # 👋 Hi, I'm TT
 
-## 🚧 Work in Progress
+## 🚧 Work in Progress Projects
 
 ### 🔬 AI Rowing Recognition System
 Real-time detection of rowing techniques using computer vision and pose estimation. The system identifies the rowing cycle phases and generates performance graphs for legs, back, and hands.
