@@ -28,9 +28,9 @@
 
 ## 📫 Contact / 联系我
 
-- 🌐 Personal Website / 个人主页：[ellan.lol](http://ellan.lol)
+- 🌐 Website / 网站：[ellan.lol](http://ellan.lol)
 - 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
-- 📧 Email: your_email@example.com
+- 📧 Email: haha_tt@icloud.com
 
 ---
 
