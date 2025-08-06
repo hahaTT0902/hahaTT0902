@@ -11,9 +11,6 @@ Real-time detection of rowing techniques using computer vision and pose estimati
 ### 🌐 Ellan.TOP Minecraft Server
 Running a fantasy-themed Minecraft public server with custom features, immersive design, and community engagement.
 
-- 🎮 Features: GitHub-hosted website, interactive UI, typing animation, mobile optimization
-- 🔧 Stack: HTML, CSS, JavaScript, GitHub Wiki
-
 ### 📊 Solar Panel Tracker
 3D solar panel simulation and auto-tracking system using PyQt5 + OpenGL with real-time angle control, serial communication, and intelligent centering.
 
@@ -44,10 +41,7 @@ Running a fantasy-themed Minecraft public server with custom features, immersive
 - 🛠 技术栈：Python, OpenCV, MediaPipe, Matplotlib
 
 ### 🌐 Ellan.TOP 艾尔岚大陆服务器
-自研并运营的 Minecraft 公益服务器，融合奇幻世界观，具备动画加载、导航界面和移动端适配的官方网站。
-
-- 🎮 特点：打字动画、导航模块、GitHub Wiki 托管
-- 🔧 技术栈：HTML, CSS, JavaScript
+自研并运营的 Minecraft 公益服务器
 
 ### 📊 太阳能自动追踪系统
 结合 PyQt5 与 OpenGL 构建 3D 界面，实现太阳能板的自动追踪、角度调整与串口通信控制，支持角度限制与回中逻辑。
