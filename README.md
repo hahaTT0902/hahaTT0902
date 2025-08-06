@@ -9,7 +9,7 @@ Real-time detection of rowing techniques using computer vision and pose estimati
 - 🛠 Tech Stack: Python, OpenCV, MediaPipe, Matplotlib
 
 ### 🌐 Ellan.TOP Minecraft Server
-Running a fantasy-themed Minecraft public server with custom features, immersive design, and community engagement.
+Running a Minecraft public server with custom features
 
 ### 📊 Solar Panel Tracker
 3D solar panel simulation and auto-tracking system using PyQt5 + OpenGL with real-time angle control, serial communication, and intelligent centering.
