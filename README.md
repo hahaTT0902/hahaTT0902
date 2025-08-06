@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm TT / 你好，我是 TT
 
-<!--
-**hahaTT0902/hahaTT0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student from Singapore, passionate about self-learning, creative coding, and meaningful projects.  
+📚 最近专注于跨学科项目，从人工智能、网站开发到物理可视化和数据分析等。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Recent Projects / 最近项目
+
+### 🔬 AI Rowing Recognition System / AI 赛艇识别系统
+> 实时分析划桨动作，评估腿、背、手三部分的速度，自动生成节奏报告……
+> Real-time detection of rowing technique using computer vision and pose estimation, tracking leg/back/hand phases...
+
+- 🧠 功能：动作周期识别、关节角度可视化、节奏图表
+- 🛠 技术栈：Python, OpenCV, MediaPipe, Matplotlib
+
+### 🌐 Ellan.TOP Minecraft Server
+> 正在运用一个 Minecraft 公益服
+> Currently Maintaining and Operating a Minecraft Server
+
+- 🎨 技术：HTML, CSS, GitHub Wiki, Tailwind 风格美化
+- 🚀 特点：打字动画、移动端适配、沉浸式视觉导航
+
+### 📊 Solar Panel Tracker / 太阳能自动追踪系统
+> 通过 PyQt5 + OpenGL 实现太阳能板三维仿真与角度控制，支持串口通信和实时回中机制。
+
+- 🔄 功能：基于经纬度自动计算太阳角度，旋转/仰角限制与保存中点
+- 🔧 技术：Arduino, Python, PyQt5, OpenGL, A4988
+
+---
+
+## 📫 Contact / 联系我
+
+- 🌐 Personal Website / 个人主页：[ellan.lol](http://ellan.lol)
+- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: your_email@example.com
+
+---
+
+⭐️ *If you like any of my projects, feel free to star, fork, or reach out to collaborate!*  
+⭐️ *如果你喜欢我的项目，欢迎 star、fork，或者联系我合作！*
