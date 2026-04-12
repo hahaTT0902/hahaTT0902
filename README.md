@@ -10,7 +10,7 @@ Running a Minecraft public server with custom features
 
 ## Contact
 - Personal Website: ([Link](https://yutianfu.me/))
-- Server: [ellan.site](https://ellan.site)
+- MCServer: [ellan.site](https://ellan.site)
 - Email: haha_tt@icloud.com
 
 ---
@@ -33,7 +33,7 @@ Running a Minecraft public server with custom features
 ## 联系方式
 
 - 个人网站：([Link](https://yutianfu.me/))
-- MC服务器： [ellan.lol](http://ellan.lol)
+- MCServer: [ellan.site](https://ellan.site)
 - 邮箱：haha_tt@icloud.com
 
 ---
