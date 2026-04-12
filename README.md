@@ -10,7 +10,7 @@ Running a Minecraft public server with custom features
 
 ## Contact
 - Personal Website: ([Link](https://yutianfu.me/))
-- Server: [ellan.lol](http://ellan.lol)
+- Server: [ellan.site](https://ellan.site)
 - Email: haha_tt@icloud.com
 
 ---
