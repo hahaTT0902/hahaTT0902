@@ -40,6 +40,6 @@ Running a Minecraft public server with custom features
 
 ⭐️ *如果你喜欢我的项目，欢迎 star、fork，或联系我交流合作！*
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hahaTT0902&show_icons=true&theme=dark)
+![hahaTT0902's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hahaTT0902&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=hahaTT0902&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hahaTT0902&layout=compact&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hahaTT0902&theme=dark)
