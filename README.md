@@ -1,4 +1,4 @@
-[![GitHubCard](https://githubcard.com/hahaTT0902.svg?d=9V1Fw9kK)]
+![GitHubCard](https://githubcard.com/hahaTT0902.svg?d=9V1Fw9kK)
 
 # Hi, I'm TT
 
