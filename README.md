@@ -1,5 +1,3 @@
-![GitHubCard](https://githubcard.com/hahaTT0902.svg?d=9V1Fw9kK)
-
 # 💫 About Me:
 
 ## Hi, I'm TT
